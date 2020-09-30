@@ -8,8 +8,8 @@ public class ja2{
 		int x = 1;
 		int y = 2;
 		int result = x + y;
-		System.out.pintln(result);  
-		 
+		System.out.pintln(x+"+"+y+"="+result);  
+
 
         
 	}
